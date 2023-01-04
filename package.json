@@ -1,0 +1,24 @@
+{
+  "name": "backend-do-zero-testando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./build/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrianaramss/backend-do-zero-testando.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrianaramss/backend-do-zero-testando/issues"
+  },
+  "homepage": "https://github.com/Adrianaramss/backend-do-zero-testando#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
